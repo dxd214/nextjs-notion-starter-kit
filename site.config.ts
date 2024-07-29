@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
+  name: 'Xiaodong Dong Blog World',
   domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  author: 'Xiaodong Dong',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
-  linkedin: 'Chao Di Tang',
+  twitter: 'Andy214_Dong',
+  github: 'dxd214',
+  linkedin: '%E6%99%93%E4%B8%9C-%E8%91%A3-b8a679292',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
