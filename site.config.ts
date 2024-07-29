@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Xiaodong Dong Blog World',
-  domain: 'chaodit.com',
+  name: '阿木的后花园 Xiao Dong Blog World',
+  domain: 'baidu.com',
   author: 'Xiaodong Dong',
 
   // open graph metadata (optional)
